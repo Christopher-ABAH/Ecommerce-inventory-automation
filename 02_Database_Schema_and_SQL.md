@@ -1,20 +1,3 @@
-Great work getting that uploaded—your repository is officially live with its first core Technical BA artifact!
-
-Now we move straight into **Phase 3: SQL Data Pipeline & Database Schema Mapping**.
-
-In this phase, you are demonstrating the *Technical* side of the BA role: showing how the business rules defined in your BRD translate into relational database design and SQL logic for reporting.
-
----
-
-### Step 1: Create a New File in GitHub
-
-1. In your `ecommerce-inventory-automation` repository, click **Add file** $\rightarrow$ **Create new file**.
-2. Name the file: `02_Database_Schema_and_SQL.md`
-3. Paste the complete code and documentation below into the editor.
-4. Click **Commit changes...**
-
----
-
 ```markdown
 # Phase 3: Relational Database Schema & SQL Analytics Pipeline
 
